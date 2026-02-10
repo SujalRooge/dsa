@@ -15,6 +15,6 @@ class Solution {
             i++;
         }
 
-        return first.substring(0, i); 
+        return last.substring(0, i); 
     }
 }
